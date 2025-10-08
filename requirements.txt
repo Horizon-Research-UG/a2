@@ -1,0 +1,61 @@
+# NeuroGames Project Dependencies
+# ================================
+# 
+# This file lists all Python packages required for the NeuroGames project.
+# Install all dependencies with: pip install -r requirements.txt
+#
+# CS50-Style Dependency Management:
+# - Each dependency is documented with its purpose
+# - Version constraints ensure compatibility
+# - Common alternatives are noted for educational purposes
+
+# PDF Generation Library
+# ----------------------
+# fpdf2: Modern Python library for PDF creation
+# - Creates PDF files programmatically
+# - Supports shapes, text, and graphics
+# - Pure Python implementation (no external dependencies)
+# - Alternative: reportlab (more features, larger size)
+fpdf2>=2.7.0
+
+# Standard Library Dependencies (No installation required)
+# --------------------------------------------------------
+# The following modules are part of Python's standard library:
+# - os: Operating system interface (file operations)
+# - datetime: Date and time manipulation
+# - inspect: Runtime introspection (call stack analysis)  
+# - random: Random number generation
+# - math: Mathematical functions (trigonometry for polygons)
+#
+# These are automatically available with any Python installation
+
+# Development Dependencies (Optional)
+# -----------------------------------
+# Uncomment the following lines for development work:
+
+# Code formatting and linting
+# black>=23.0.0          # Code formatter
+# flake8>=6.0.0          # Code linter
+# mypy>=1.0.0            # Type checker
+
+# Testing framework
+# pytest>=7.0.0          # Testing framework
+# pytest-cov>=4.0.0     # Coverage reporting
+
+# Documentation generation
+# sphinx>=5.0.0          # Documentation generator
+# sphinx-rtd-theme>=1.0.0 # ReadTheDocs theme
+
+# Additional PDF Libraries (Alternatives)
+# ---------------------------------------
+# reportlab>=3.6.0       # Professional PDF library (more features)
+# matplotlib>=3.5.0      # For plotting and advanced graphics
+# pillow>=9.0.0          # Image processing (if adding image support)
+
+# Educational Notes:
+# -----------------
+# 1. Version Pinning: We use >= to allow compatible updates
+# 2. Minimal Dependencies: Only essential packages are required
+# 3. Standard Library First: Prefer built-in modules when possible
+# 4. Clear Documentation: Each dependency explains its purpose
+# 5. Development vs Production: Separate optional dependencies

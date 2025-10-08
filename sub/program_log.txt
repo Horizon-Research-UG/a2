@@ -1,0 +1,5 @@
+# NeuroGames Program Execution Log
+# Aufrufnummer	Datum	Zeit	Dateiname	Dateipfad
+#================================================================================
+2	2025-10-08	11:39:23	pdf.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+1	2025-10-08	11:39:18	main.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\main.py

@@ -1,0 +1,19 @@
+# NeuroGames Program Execution Log
+# Aufrufnummer	Datum	Zeit	Dateiname	Dateipfad
+#================================================================================
+16	2025-10-08	12:55:46	pdf_generator.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\src\pdf_generator.py
+15	2025-10-08	12:54:09	main.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\main.py
+14	2025-10-08	12:16:32	pdf_generator.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\src\pdf_generator.py
+13	2025-10-08	12:12:16	pdf_generator.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\src\pdf_generator.py
+12	2025-10-08	12:12:16	main.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\main.py
+11	2025-10-08	12:10:22	pdf_generator.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\src\pdf_generator.py
+10	2025-10-08	12:10:16	main.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\main.py
+9	2025-10-08	11:59:30	pdf.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+8	2025-10-08	11:59:14	pdf.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+7	2025-10-08	11:53:27	<string>	<string>
+6	2025-10-08	11:52:59	pdf.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+5	2025-10-08	11:52:38	pdf.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+4	2025-10-08	11:52:24	pdf.py	c:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+3	2025-10-08	11:52:18	<string>	<string>
+2	2025-10-08	11:50:13	pdf.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
+1	2025-10-08	11:50:01	pdf.py	C:\Users\49176\OneDrive - Heiner Reinecke\Mit PC verknüpft\Desktop\NeuroGames - nicht verschieben\a2\pdf.py
